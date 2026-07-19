@@ -1,1 +1,1 @@
-### Thingking Machine (fireworksr)
+### Validating Machine (fireworksr)
